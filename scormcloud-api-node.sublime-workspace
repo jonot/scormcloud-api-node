@@ -1,0 +1,1190 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"users",
+				"usersDb"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"org",
+				"orgDb"
+			],
+			[
+				"traing",
+				"trainingPlans"
+			],
+			[
+				"lice",
+				"licenced"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"is",
+				"isInRole"
+			],
+			[
+				"pr",
+				"previous"
+			],
+			[
+				"user",
+				"usersDb"
+			],
+			[
+				"completed",
+				"completedDate"
+			],
+			[
+				"organ",
+				"organisation"
+			],
+			[
+				"trai",
+				"trainingPlanDb"
+			],
+			[
+				"ass",
+				"assignedUsers"
+			],
+			[
+				"train",
+				"trainingPlans"
+			],
+			[
+				"map",
+				"maps"
+			],
+			[
+				"phone",
+				"phonesMap"
+			],
+			[
+				"email",
+				"emailsMap"
+			],
+			[
+				"add",
+				"addressesMap"
+			],
+			[
+				"return",
+				"returnValue"
+			],
+			[
+				"courses",
+				"courses"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"orga",
+				"organisations"
+			],
+			[
+				"cours",
+				"course"
+			],
+			[
+				"la",
+				"latestCompletionDate"
+			],
+			[
+				"organi",
+				"organisation"
+			],
+			[
+				"ma",
+				"maxItems"
+			],
+			[
+				"get",
+				"getCourses"
+			],
+			[
+				"cour",
+				"courses"
+			],
+			[
+				"seat",
+				"seatsAvailable"
+			],
+			[
+				"res",
+				"refresherMonths"
+			],
+			[
+				"compan",
+				"companyName"
+			],
+			[
+				"max",
+				"maxOrArray"
+			],
+			[
+				"faker",
+				"fakerService"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"training",
+				"trainingplans"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"Licecn",
+				"Licenced"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"Depart",
+				"Departments"
+			],
+			[
+				"Electri",
+				"Electrictians"
+			],
+			[
+				"require",
+				"requirejs"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"19",
+				"196.122"
+			],
+			[
+				"to",
+				"toArray〔function〕"
+			],
+			[
+				"product",
+				"productData"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"remove",
+				"removeAttr〔function〕"
+			],
+			[
+				"child",
+				"children〔variable〕"
+			],
+			[
+				"fold",
+				"folderid〔variable〕"
+			],
+			[
+				"rem",
+				"removeAttr〔function〕"
+			],
+			[
+				"remo",
+				"removeAttr"
+			],
+			[
+				"permin",
+				"permissiontype"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"permission",
+				"permissiontype"
+			],
+			[
+				"input",
+				"input:checkbox"
+			],
+			[
+				"next",
+				"nextUntil〔function〕"
+			],
+			[
+				"hide",
+				"hideRow〔variable〕"
+			],
+			[
+				"folder",
+				"folderid"
+			],
+			[
+				"chil",
+				"children〔variable〕"
+			],
+			[
+				"assi",
+				"assignedPermissions"
+			],
+			[
+				"doc",
+				"documentReady"
+			],
+			[
+				"testr",
+				"testrailAPI"
+			],
+			[
+				"miles",
+				"milestone"
+			],
+			[
+				"total",
+				"totalUntested"
+			],
+			[
+				"totl",
+				"totalPassed"
+			],
+			[
+				"data",
+				"dataIndex"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"comple",
+				"completed_on_date"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"run",
+				"runsSubject"
+			],
+			[
+				"runs",
+				"runsSource"
+			],
+			[
+				"single",
+				"singlePlanSource"
+			],
+			[
+				"plans",
+				"plansSource"
+			],
+			[
+				"from",
+				"fromPromise"
+			],
+			[
+				"singl",
+				"singlePlanSource"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"entr",
+				"entries"
+			],
+			[
+				"From",
+				"fromArray"
+			],
+			[
+				"resuls",
+				"resultsSubject"
+			],
+			[
+				"resul",
+				"resultsSubject"
+			],
+			[
+				"tesr",
+				"testrailAPI"
+			],
+			[
+				"test",
+				"testrailAPI"
+			],
+			[
+				"controll",
+				"controllerFn"
+			],
+			[
+				"mintox",
+				"mintoxDualSelectorDirective"
+			],
+			[
+				"dir",
+				"directiveFn"
+			],
+			[
+				"angular",
+				"angular-mintox"
+			],
+			[
+				"control",
+				"controlArr"
+			],
+			[
+				"dit",
+				"directiveArr"
+			],
+			[
+				"vehicle",
+				"vehicleListService"
+			],
+			[
+				"conto",
+				"controllerFn  (class)"
+			],
+			[
+				"aber",
+				"aberdeenModule"
+			],
+			[
+				"ngbi",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"new",
+				"newIndex"
+			],
+			[
+				"seleced",
+				"selectedItems"
+			],
+			[
+				"ngch",
+				"ng-checked	AngularJS"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"ng-",
+				"ng-click	AngularJS"
+			],
+			[
+				"ngre",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"sel",
+				"onSelectedIndexChange"
+			],
+			[
+				"ng",
+				"ng-disabled	AngularJS"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"ngcl",
+				"ng-click	AngularJS"
+			],
+			[
+				"onItem",
+				"onItemRemoved"
+			],
+			[
+				"parent",
+				"parentItem"
+			],
+			[
+				"api",
+				"mintoxDualListApi"
+			],
+			[
+				"ng-in",
+				"ng-init	AngularJS"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "⠤\n▸ .git\\\n▸ lib\\\n▸ spec\\\n≡ .gitignore\n≡ package.json\n≡ README.md\n≡ scormcloud-api.js",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Windows",
+				"name": "𝌆 scormcloud-api-node",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 172.0,
+		"last_filter": "npm",
+		"selected_items":
+		[
+			[
+				"npm",
+				"npm: Install and Save Package"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"bow",
+				"Bower: Install"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"npm in",
+				"npm: Install and Save Package"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"g",
+				"Gulp"
+			],
+			[
+				"npm ",
+				"npm: Install and Save Package"
+			],
+			[
+				"searc",
+				"npm: Search Packages"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"npm: Install and Save Package"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"brow",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgu",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"bowe",
+				"Bower: Install dependencies"
+			],
+			[
+				"git:",
+				"Git: Pull"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"users",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"Package",
+				"Bower: Discover packages"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"File: Duplicate"
+			],
+			[
+				"intall",
+				"Bower: Install"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"filere",
+				"File: Rename"
+			],
+			[
+				"ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"",
+				"Bower: Install"
+			],
+			[
+				"find",
+				"Code Folding: Unfold All"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"rebui",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"index",
+				"AngularJS: Rebuild Search Index"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 302.0,
+		"history":
+		[
+			"clear",
+			"cls",
+			"copy",
+			"cp",
+			"comm",
+			"bower",
+			"bower install angular-nvd3",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Users/Jono/Documents/Git/scormcloud-api-node"
+	],
+	"file_history":
+	[
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/store/package.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/package.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/users.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/courses/courses.list.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/scormcloud-api-node/lib/services/registration/registration-service.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/navbar/navbar.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/user.route.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/courses/controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/courses/service.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/scormcloud-api-node/README.md",
+		"/E/Users/Jono/Documents/Git/smoothlms/bower.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/courses/edit.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/scormcloud-api-node/lib/request/response.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/underscore/README.md",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/coursers/courses.list.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/coursers/courses.list.jsron",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/courses/list.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/db/users.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/services/uiService.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/training-plans/73bd6a44-baaa-4ff2-83cc-08d4dc7fea80.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/trainingplans/view/template.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/trainingplans/template.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/gulpfile.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/protractor.conf.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/courses/template.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/courses/view/template.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/trainingplans/view/service.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/trainingplans/view/controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/my-training-plans.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/training-plans/6fc4e77c-ea11-407f-8b78-94709b5df9de.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/training-plans/a997010e-c276-406d-8ea4-b03e57ecf45b.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/training-plans/9d85dbd9-affb-41c2-b3ac-7454b42a3a10.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mockViewModels/user0/training-plans/cf415b89-c077-4ab5-930f-17ebf84192c8.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/index.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/user.template.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/trainingplans/controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/user/trainingplans/service.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/jfs/node_modules/async/lib/async.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/trainingplans.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/organisation0.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/db/buildDB.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/app.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/courses.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/user0.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/user1.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/mock.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/db/trainingplans.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/training-plans/training-plans.courses.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/db/organisations.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/organisations/1312abfe-b58e-48c5-a73b-b3bb9cd6f5db.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/organisations/ffd50e4b-63b6-4f3e-a1ab-2aead68d53df.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/organisations/27e6b2bc-202e-4c83-91d4-cad428bd6c47.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/users/user0.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/organisations/5c0d7f50-8390-4989-9ae8-2612fefa973f.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/users/0d10b100-f0e0-48f1-ac14-05417907054b.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/index.route.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/organisations/dc1301c0-b220-4adf-81f7-169c35cffa53.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/organisations/4634f35c-3d72-46b4-b296-58aac78db510.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/jsonFiles/trainingPlans/eb81ed06-484a-478f-aa67-9b3c6319db6b.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/db/fakerService.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/mockDataGenerator/src/app.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/mockDataGenerator/src/courses.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/mockDataGenerator/src/organisations.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/mockDataGenerator/src/buildDB.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/mockDataGenerator/src/fakerService.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/store/index.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/jsonFiles/trainingPlans/c608ffee-0422-4ce0-87ba-7c4ea39225f1.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/mockDataGenerator/src/run.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/mockDataGenerator/package.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/config.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/courses/courses.json",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/courses/courses.list.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/node-store/test/open.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/node-store/.project",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/src/db/courses.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/node-store/lib/mongo.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/node-store/lib/collection.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/merge/merge.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/authorisation.config.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/navbar/navbar.directive.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/training-plans/mine/training-plans.mine.controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/training-plans/training-plans.mine.controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/training-plans/mine/training-plans.mine.service.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/authorisation.service.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/authorisation.constants.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/index.run.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/authorisation.run.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/index.scss",
+		"/E/Users/Jono/Documents/Git/smoothlms/bower_components/satellizer/satellizer.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/authorisation.module.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/authorisation.service.ja",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/main/main.controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/index.module.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/main/main.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/submenu/submenu.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/index.config.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/index.constants.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/directives/training-plan-grid/trainingPlanGrid.module.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/node_modules/karma-angular-filesort/node_modules/ng-dependencies/node_modules/sugar/performance/javascripts/vendor/moment.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/jsonwebtoken/index.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/directives/training-plan-grid/trainingPlanGrid.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/gulpfile.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/training-plans/training-plans.mine.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/training-plans/training-plans.edit.controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authentication/_authentication.module.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authentication/authentication.http-interceptor.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/_authorisation.module.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/authorisation.AuthResolver.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/authorisation/authorisation.httpAuthService.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/navbar/navbar.scss",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/main/main.controller.spec.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/register/register.controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/training-plans/training-plans.edit.html",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/directives/training-plan-grid/trainingPlanGrid.directive.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/src/app/components/directives/training-plan-grid/trainingPlanGrid.controller.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/karma.conf.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/date.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/vendor/mersenne.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/lorem.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en/date/index.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en/date/month.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en/date/weekday.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en_AU/phone_number/index.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en_AU/phone_number/formats.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en_AU/index.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en_AU/internet/domain_suffix.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en_AU/address/state_abbr.js",
+		"/E/Users/Jono/Documents/Git/smoothlms/apiServer/node_modules/faker/lib/locales/en_AU/address/state.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"E:\\Users\\Jono\\Documents\\Git\\smoothlms",
+			"/Users/jon/Documents/lms-app/",
+			"./",
+			"/Users/jon/Documents/lms-app/",
+			"/Users/jon/Documents/lms-app/app/main.js",
+			"/Users/jon/Documents/lms-app/app",
+			"",
+			"/Volumes/TFS/Releases/v4.11.73.0/Mintox.DataIndexing",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"createRegistration",
+			"create",
+			"th",
+			"this",
+			"username",
+			"req.body.username",
+			"courseMap",
+			"\\\n",
+			"user",
+			"authorisation",
+			"moment",
+			"jwtInterceptorProvider",
+			"jwtHelper",
+			"config",
+			"config.js",
+			"TrainingPlansEditController",
+			"userID",
+			"false",
+			"trainingPlansMap",
+			"wrapResultSend",
+			"wrapResult",
+			"i",
+			"sourceArray",
+			"maxItems",
+			"numberOfItems",
+			"maxItems",
+			"'',\n",
+			"''.\n",
+			"mock",
+			"callback",
+			"factory",
+			"genrand_int32",
+			"faker.random",
+			"users",
+			"');\n",
+			"users",
+			"components",
+			"}\n",
+			"remove",
+			"add",
+			"ST3",
+			"container",
+			"jumbo",
+			"=\"\">",
+			"'",
+			">\n",
+			"stock",
+			"direct",
+			"bootstrap-tagsinput",
+			"load-grunt-tasks",
+			"controllerUrl",
+			".js",
+			"^(\\/.+?)$",
+			"^bower",
+			"\"></script>",
+			"<script src=\"",
+			"MainCtrl",
+			"virutalDirectory",
+			"Get",
+			"get latest",
+			"git ",
+			"v%RELNO%.0",
+			"x.x.x.x",
+			"RELBRANCH",
+			"$",
+			"RedactorPlugins",
+			"$box",
+			"linkify",
+			"plugin",
+			"RedactorPlugins",
+			"Strip",
+			"StripCode",
+			"SetCode",
+			"encodeEntities",
+			"savePreCode",
+			"iframe",
+			"ShowI",
+			"Draw",
+			"Render",
+			"enableAir",
+			"C:\\Projects",
+			"v%RELBRANCH%.0",
+			"\\v%RELBRANCH%.0",
+			"v%RELBRANCH%.0",
+			"formupload",
+			"form",
+			"uploadControl",
+			"modal",
+			"ATT:",
+			"add-to-enquiry",
+			"ATTN",
+			"ATT",
+			"accessoriesModal",
+			"modal",
+			"accessories",
+			"access",
+			"not going",
+			"ben",
+			"SiteFacetedSearchParamModel",
+			"AddRange",
+			"AddSolrItems",
+			"neptune",
+			"addCarImage",
+			"location",
+			"\\n",
+			"^",
+			"$",
+			"\" />",
+			"<add input=\"{HTTP_HOST}\" pattern=\"",
+			"CKEDITOR",
+			"10",
+			"refresh",
+			"aberdeenModule",
+			"ng-app=\"aberdeenModule\" ",
+			"hr",
+			"modal",
+			"mintoxService",
+			"quickInsert",
+			"digest",
+			"api.",
+			"uiData.",
+			"css",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ST3",
+			"\"",
+			"",
+			"'': '$1',",
+			"\\/bower",
+			"",
+			"HomeCtrl",
+			"182.253.196.122",
+			"D:\\SRC",
+			"\\Mintox-Application",
+			"fileName",
+			"",
+			"(",
+			"|",
+			"",
+			"service.",
+			"api."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"dired_count": 7,
+							"dired_index":
+							[
+								"⠤",
+								"E:\\Users\\Jono\\Documents\\Git\\scormcloud-api-node\\.git\\",
+								"E:\\Users\\Jono\\Documents\\Git\\scormcloud-api-node\\lib\\",
+								"E:\\Users\\Jono\\Documents\\Git\\scormcloud-api-node\\spec\\",
+								"E:\\Users\\Jono\\Documents\\Git\\scormcloud-api-node\\.gitignore",
+								"E:\\Users\\Jono\\Documents\\Git\\scormcloud-api-node\\package.json",
+								"E:\\Users\\Jono\\Documents\\Git\\scormcloud-api-node\\README.md",
+								"E:\\Users\\Jono\\Documents\\Git\\scormcloud-api-node\\scormcloud-api.js"
+							],
+							"dired_path": "E:\\Users\\Jono\\Documents\\Git\\scormcloud-api-node\\",
+							"dired_rename_mode": false,
+							"syntax": "Packages/FileBrowser/dired.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.3,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.gulp_output":
+	{
+		"height": 121.0
+	},
+	"output.textarea":
+	{
+		"height": 303.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 198.0
+	},
+	"pinned_build_system": "",
+	"project": "scormcloud-api-node.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"regist",
+				"app/views/register.html"
+			],
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
